@@ -1,0 +1,15 @@
+current directory: /home/allen/dev/ruby/rails/turbochat/vendor/bundle/ruby/3.0.0/gems/websocket-driver-0.7.5/ext/websocket-driver
+/home/allen/.rvm/rubies/ruby-3.0.3/bin/ruby -I /home/allen/.rvm/rubies/ruby-3.0.3/lib/ruby/3.0.0 -r ./siteconf20220219-9027-34hetn.rb extconf.rb
+creating Makefile
+
+current directory: /home/allen/dev/ruby/rails/turbochat/vendor/bundle/ruby/3.0.0/gems/websocket-driver-0.7.5/ext/websocket-driver
+make DESTDIR\= clean
+
+current directory: /home/allen/dev/ruby/rails/turbochat/vendor/bundle/ruby/3.0.0/gems/websocket-driver-0.7.5/ext/websocket-driver
+make DESTDIR\=
+compiling websocket_mask.c
+linking shared-object websocket_mask.so
+
+current directory: /home/allen/dev/ruby/rails/turbochat/vendor/bundle/ruby/3.0.0/gems/websocket-driver-0.7.5/ext/websocket-driver
+make DESTDIR\= install
+/usr/bin/install -c -m 0755 websocket_mask.so ./.gem.20220219-9027-llpr9c
