@@ -17,3 +17,5 @@ group :development, :test do
   gem "debug"
 end
 
+
+gem "devise", "~> 4.8"
