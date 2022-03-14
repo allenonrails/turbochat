@@ -3,7 +3,7 @@ import { cable } from "@hotwired/turbo-rails"
 
 export default class extends Controller {
   connect() {
-    this.subscribe()
+    this.subscribe() 
     this.scrollMessages()
   }
 
